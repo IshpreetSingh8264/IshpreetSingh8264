@@ -5,29 +5,29 @@ Frameworks & Libraries: React JS.
 Tools & Software: VS Code, Notepad++, PH2, Discord, Telegram, Instagram.
 Operating System: Windows, Ubuntu 22.04.2 LTS, Kali Linux.
 
-*CURRENT PROJECTS*
+*CURRENT PROJECTS*: 
 FREEKAAMAAL : Trying to code the website https://freekaamaal.com all over again.
 
-*🌱 I’m currently learning*
+*🌱 I’m currently learning*: 
 MERN stack, Java.
 
-*🤝 I’m looking to collaborate on*
+*🤝 I’m looking to collaborate on*: 
 HTML, CSS JS based projects
 
-*💬 Ask me about*
+*💬 Ask me about*: 
 Python, HTML CSS JS
 
-*📫 How to reach me*
+*📫 How to reach me*: 
 Email: ishpreetsingh8264@gmail.com
 Discord: ishpreetsingh
 
-*Pronouns*
+*Pronouns*: 
 Default he/him 💀💀 (idk why i even wrote this)
 
-*⚡Fun fact⚡*
+*⚡Fun fact⚡*: 
 I skipped 2 grades 🤡.
 Call me nerd 🤓.
 
-**OLD ABOUT ME**
+**OLD ABOUT ME**: 
 Hi I am Ishpreet SIngh an AI student
 I am a newbie hope to learn from you guys
