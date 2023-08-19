@@ -8,6 +8,7 @@ Tools & Software: VS Code, Notepad++, PH2, Discord, Telegram, Instagram.
 
 Operating System: Windows, Ubuntu 22.04.2 LTS, Kali Linux.
 
+//------------------------------------------------------------\\
 
 *CURRENT PROJECTS*:
 Making a ReactJS based website
