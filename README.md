@@ -5,8 +5,12 @@ Frameworks & Libraries: React JS.
 Tools & Software: VS Code, Notepad++, PH2, Discord, Telegram, Instagram.
 Operating System: Windows, Ubuntu 22.04.2 LTS, Kali Linux.
 
-*CURRENT PROJECTS*: 
-FREEKAAMAAL : Trying to code the website https://freekaamaal.com all over again.
+*CURRENT PROJECTS*:
+Making a ReactJS based website
+
+*COMPLETED PROJECTS*:
+FREEKAAMAAL : Trying to code the website https://freekaamaal.com all over again. https://ishpreetsingh8264.github.io/Project2/
+FUNCORP : Trying to code the website https://funcorp.in all over again. https://ishpreetsingh8264.github.io/Project3/
 
 *🌱 I’m currently learning*: 
 MERN stack, Java.
