@@ -14,9 +14,13 @@ Operating System: Windows, Ubuntu 22.04.2 LTS, Kali Linux.
 Making a ReactJS based website
 
 *COMPLETED PROJECTS*:
+
 FREEKAAMAAL : Trying to code the website https://freekaamaal.com all over again. https://ishpreetsingh8264.github.io/Project2/
 
 FUNCORP : Trying to code the website https://funcorp.in all over again. https://ishpreetsingh8264.github.io/Project3/
+
+
+//------------------------------------------------------------\\
 
 *🌱 I’m currently learning*: 
 MERN stack, Java.
@@ -37,6 +41,9 @@ Default he/him 💀💀 (idk why i even wrote this)
 *⚡Fun fact⚡*: 
 I skipped 2 grades 🤡.
 Call me nerd 🤓.
+
+//------------------------------------------------------------\\
+
 
 **OLD ABOUT ME**: 
 Hi I am Ishpreet SIngh an AI student
