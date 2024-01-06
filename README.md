@@ -11,8 +11,7 @@ Operating System: Windows, Ubuntu 22.04.2 LTS, Kali Linux.
 //------------------------------------------------------------\\
 
 *CURRENT PROJECTS*:
-Making a ReactJS based website
-
+Working on an admin panel to add and delete data. Basically writing the logic of CRUD.
 *COMPLETED PROJECTS*:
 
 FREEKAAMAAL : Trying to code the website https://freekaamaal.com all over again. https://ishpreetsingh8264.github.io/Project1/
