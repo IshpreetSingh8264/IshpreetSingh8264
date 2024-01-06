@@ -1,8 +1,8 @@
 Hello! 👋 I'm Ishpreet Singh, a passionate Computer Science and Engineering Student from Ludhiana, Punjab.  Welcome to my GitHub!
 
-Programming Languages: Python, Flask, JS, CSS, HTML.
+Programming Languages: Python, Flask, JS, CSS, HTML, C.
 
-Frameworks & Libraries: React JS.
+Frameworks & Libraries: React JS, ANgular JS
 
 Tools & Software: VS Code, Notepad++, PH2, Discord, Telegram, Instagram.
 
