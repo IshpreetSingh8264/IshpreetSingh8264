@@ -2,7 +2,7 @@ Hello! 👋 I'm Ishpreet Singh, a passionate Computer Science and Engineering St
 
 Programming Languages: Python, Flask, JS, CSS, HTML, C.
 
-Frameworks & Libraries: React JS, ANgular JS
+Frameworks & Libraries: React JS, Angular JS
 
 Tools & Software: VS Code, Notepad++, PH2, Discord, Telegram, Instagram.
 
