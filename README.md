@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **borndeveloper@gmail.com**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IshpreetSingh8264)](https://git.io/streak-stats)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
